@@ -85,7 +85,7 @@ Happy coding! 🚀
 
 <div align="center">
   <br>
-      <img src="https://github.com/RJohnPaul/SVG-Clock-with-NiceGUI/blob/17fe67997a37c39514287d6d91f6b6641ad1bbe1/Frame%209.png" alt="Project Banner">
+      <img src="https://github.com/RJohnPaul/Event_Page_Starter/blob/49c5e604b2db086f3aa466cebe9585655b63e481/Frame%2018.png" alt="Project Banner">
   </br>
 </div>
 
