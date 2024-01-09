@@ -1,95 +1,70 @@
-import Image from 'next/image'
-import styles from './page.module.css'
-
-export default function Home() {
+import React from "react";
+import "./globals.css";
+const Page = () => {
   return (
-    <main className={styles.main}>
-      <div className={styles.description}>
-        <p>
-          Get started by editing&nbsp;
-          <code className={styles.code}>src/app/page.js</code>
-        </p>
-        <div>
-          <a
-            href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            By{' '}
-            <Image
-              src="/vercel.svg"
-              alt="Vercel Logo"
-              className={styles.vercelLogo}
-              width={100}
-              height={24}
-              priority
-            />
-          </a>
-        </div>
+    <div class="dashboard-2">
+      <nav class="contact">Contact</nav>
+      <div class="about-us">About Us</div>
+      <div class="domains">Domains</div>
+      <div class="home">Home</div>
+      <div class="line-2"></div>
+      <div class="upcoming-events">
+        <div class="registered-events">Registered Events</div>
       </div>
-
-      <div className={styles.center}>
-        <Image
-          className={styles.logo}
-          src="/next.svg"
-          alt="Next.js Logo"
-          width={180}
-          height={37}
-          priority
-        />
+      <div class="rectangle-6"></div>
+      <div class="ellipse-9"></div>
+      <div class="div">&lt;</div>
+      <div class="group-19">
+        <div class="ellipse-4"></div>
+        <div class="ellipse-5"></div>
+        <div class="ellipse-6"></div>
+        <div class="ellipse-7"></div>
+        <div class="ellipse-8"></div>
       </div>
-
-      <div className={styles.grid}>
-        <a
-          href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Docs <span>-&gt;</span>
-          </h2>
-          <p>Find in-depth information about Next.js features and API.</p>
-        </a>
-
-        <a
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Learn <span>-&gt;</span>
-          </h2>
-          <p>Learn about Next.js in an interactive course with&nbsp;quizzes!</p>
-        </a>
-
-        <a
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Templates <span>-&gt;</span>
-          </h2>
-          <p>Explore starter templates for Next.js.</p>
-        </a>
-
-        <a
-          href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Deploy <span>-&gt;</span>
-          </h2>
-          <p>
-            Instantly deploy your Next.js site to a shareable URL with Vercel.
-          </p>
-        </a>
+      <div class="group-23">
+        <div class="ellipse-82"></div>
       </div>
-    </main>
-  )
-}
+      <div class="group-22">
+        <div class="div2">&gt;</div>
+      </div>
+      <div class="rectangle-11"></div>
+      <div class="group-20">
+        <div class="rectangle-12"></div>
+        <div class="rectangle-13"></div>
+        <div class="rectangle-14"></div>
+      </div>
+      <div class="header">
+        <div class="contact">Contact</div>
+        <div class="about-us">About Us</div>
+        <div class="domains">Domains</div>
+        <div class="home">Home</div>
+      </div>
+      <div class="line-3"></div>
+      <div class="top">
+        <div class="ellipse-1"></div>
+      </div>
+      <div class="top">
+        <div class="ellipse-12"></div>
+      </div>
+      <div class="ellipse-16"></div>
+      <div class="rectangle-60"></div>
+      <div class="name-ra-email-address">
+        NAME
+        <br />
+        <br />
+        RA##########
+        <br />
+        <br />
+        Email address
+        <br />
+        <br />
+      </div>
+      <div class="registered-events2">Registered Events</div>
+      <div class="events-attended">Events Attended</div>
+      <div class="my-certificates">My Certificates</div>
+      <div class="line-25"></div>
+    </div>
+  );
+};
+
+export default Page;
