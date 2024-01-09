@@ -11,6 +11,9 @@ Welcome to the React Website for Beginners! 🚀 This project is a simple React 
 - **Easy to Customize:** Modify the React components, HTML, and CSS files to suit your preferences and requirements.
 - **Features Section:** Learn about the key features of the project and the required frameworks.
 
+## Demo
+ -**Demo -** Check out the live preview [here]("https://event-page-starter.vercel.app/")
+
 ## Quick Start
 
 1. Clone the repository:
