@@ -10,7 +10,7 @@
 
 <div align="center">
   <br>
-      <img src="https://github.com/RJohnPaul/SVG-Clock-with-NiceGUI/blob/17fe67997a37c39514287d6d91f6b6641ad1bbe1/Frame%209.png" alt="Project Banner">
+      <img src="https://github.com/RJohnPaul/Event_Page_Starter/blob/eafb8239c77f92dbdd87e9f19332586e91246ed7/Frame-5.png" alt="Project Banner">
   </br>
 </div>
 </br>
