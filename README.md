@@ -12,7 +12,7 @@ Welcome to the React Website for Beginners! 🚀 This project is a simple React 
 - **Features Section:** Learn about the key features of the project and the required frameworks.
 
 ## Demo
- -**Demo -** Check out the live preview [here]("https://event-page-starter.vercel.app/")
+ -**Demo -** Check out the live preview [here](https://event-page-starter.vercel.app/)
 
 ## Quick Start
 
