@@ -2,6 +2,19 @@
 
 # React Website for Beginners
 
+<div align="center">
+  <br>
+      <img src="https://github.com/RJohnPaul/SVG-Clock-with-NiceGUI/blob/17fe67997a37c39514287d6d91f6b6641ad1bbe1/Frame%209.png" alt="Project Banner">
+  </br>
+</div>
+
+<div align="center">
+  <br>
+      <img src="https://github.com/RJohnPaul/SVG-Clock-with-NiceGUI/blob/17fe67997a37c39514287d6d91f6b6641ad1bbe1/Frame%209.png" alt="Project Banner">
+  </br>
+</div>
+</br>
+
 Welcome to the React Website for Beginners! 🚀 This project is a simple React website that combines the power of React with the fundamentals of HTML and CSS. It's designed to be beginner-friendly, providing an easy-to-understand starting point for those learning web development.
 
 ## Features
@@ -69,5 +82,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or need assistance, feel free to reach out to [your-email@example.com].
 
 Happy coding! 🚀
+
+<div align="center">
+  <br>
+      <img src="https://github.com/RJohnPaul/SVG-Clock-with-NiceGUI/blob/17fe67997a37c39514287d6d91f6b6641ad1bbe1/Frame%209.png" alt="Project Banner">
+  </br>
+</div>
+
 
 ---
