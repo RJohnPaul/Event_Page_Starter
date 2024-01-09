@@ -4,7 +4,7 @@
 
 <div align="center">
   <br>
-      <img src="https://github.com/RJohnPaul/SVG-Clock-with-NiceGUI/blob/17fe67997a37c39514287d6d91f6b6641ad1bbe1/Frame%209.png" alt="Project Banner">
+      <img src="https://github.com/RJohnPaul/Event_Page_Starter/blob/c07e59f2d1706648a2cd7ba8906d6e06bfddbbd9/Frame%2017.png" alt="Project Banner">
   </br>
 </div>
 
